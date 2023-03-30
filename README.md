@@ -9,15 +9,16 @@ This Bash script automates the installation of Nginx, MariaDB, and WordPress on 
 
 ## Usage
 
-1. Download the script:
+1. Download the following scripts:
 
 ```curl -O https://raw.githubusercontent.com/rootlodge/wordpress-installer/master/wp-installer.sh```
+```curl -O https://raw.githubusercontent.com/rootlodge/wordpress-installer/master/installnginxconfig.sh``
 
 
-2. Make the script executable:
+2. Make the scripts executable:
 
 ```chmod +x wp-installer.sh```
-
+```chmod +x installnginxconfig.sh```
 
 3. Run the script with root privileges:
 
